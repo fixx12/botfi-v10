@@ -1,0 +1,14 @@
+{
+  "name": "botfii",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "pino": "^8.0.0",
+    "@whiskeysockets/baileys": "^6.7.18",
+    "chalk": "^5.2.0"
+  }
+}

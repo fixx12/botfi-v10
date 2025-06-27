@@ -1,0 +1,1 @@
+// Auto reject incoming calls using Baileys events

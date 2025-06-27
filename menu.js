@@ -1,0 +1,1 @@
+export const menu = `Ketik .menu untuk melihat semua fitur.`;
